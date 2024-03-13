@@ -1,0 +1,12 @@
+ the code will need changes
+proxies = 
+        
+            'http': 'http://proxy1.example.com:8000',
+            'https': 'https://proxy1.example.com:8000'
+    
+
+            'http': 'http://proxy2.example.com:8000',
+            'https': 'https://proxy2.example.com:8000'
+            
+            make sure you change the proxies to your set up proxies 
+            if you dont know how to do this there is many videos on youtube explaing how to get a proxie.
